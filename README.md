@@ -1,3 +1,3 @@
 # Avocado
-This is a test repository.
-Avocado toasts are the best
+
+This is my first repository.
